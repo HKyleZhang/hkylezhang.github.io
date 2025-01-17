@@ -144,7 +144,7 @@ newsletter:
 collections:
   news:
     defaults:
-      layout: page
+      layout: post
     output: true
     permalink: /:collection/:title/
   projects:
