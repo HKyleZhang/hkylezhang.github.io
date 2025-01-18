@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>E-mail: hongkaizhang92@126.com</p>
+    <p>ORCiD: 0000-0001-7371-9612</p>
     <p>Your City, Province 12345</p>
 
 news: true # includes a list of news items
