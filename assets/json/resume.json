@@ -4,7 +4,7 @@
     "label": "Evolutionary biologist",
     "image": "",
     "email": "hongkaizhang92@126.com",
-    "phone": "(912) 123-4567",
+    "phone": "(+86) 123-4567",
     "url": "https://hkylezhang.github.io",
     "summary": "Working on genomics of",
     "location": {
@@ -77,12 +77,12 @@
   "references": [
     {
       "name": "Prof. Bengt Hansson",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-user",
       "reference": "Professor in evolutionary biology at the Department of Biology, Lund University. Research interests: sex chromosomes and speciation."
     },
     {
       "name": "Prof. Dennis Hasselquist",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "fa-solid fa-user",
       "reference": "Professor in animal ecology at the Department of Biology, Lund University. Research interests: evolutionary and behavioural ecology"
     }
   ]
