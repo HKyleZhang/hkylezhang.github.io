@@ -2,26 +2,8 @@
   "basics": {
     "name": "Hongkai Zhang",
     "origin": "Guangzhou, China",
-    "label": "",
-    "image": "",
     "email": "hongkaizhang92@126.com",
-    "phone": "",
-    "url": "https://hkylezhang.github.io",
-    "summary": "",
-    "location": {
-      "address": "xxxx St",
-      "postalCode": "123456",
-      "city": "Beijing",
-      "countryCode": "CN",
-      "region": "Beijing"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "HKyleZhang",
-        "url": "https://twitter.com/HKyleZhang"
-      }
-    ]
+    "website": "https://hkylezhang.github.io"
   },
   "education": [
     {
