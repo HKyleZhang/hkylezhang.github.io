@@ -439,25 +439,18 @@ ninja.data = [{
           window.open("mailto:%68%6F%6E%67%6B%61%69%7A%68%61%6E%67%39%32@%31%32%36.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/HKyleZhang", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=ZmQo-HQAAAAJ&hl=en", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/HKyleZhang", "_blank");
         },
       },{
         id: 'social-x',
