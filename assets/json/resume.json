@@ -57,32 +57,20 @@
       "summary": "Teaching"
     }
   ],
+  "interests": [
+    {
+      "keywords": [
+        "Evolutionary biology",
+        "Genomics"
+      ]
+    }
+  ],
   "skills": [
     {
       "keywords": [
         "Genomics",
         "Phylogenetics",
         "R programming"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Chinese",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "keywords": [
-        "Evolutionary biology",
-        "Genomics"
       ]
     }
   ],
