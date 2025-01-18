@@ -2,16 +2,18 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+email: hongkaizhang92@126.com # your email address
+scholar_userid: ZmQo-HQAAAAJ&hl=en # your Google Scholar ID
+orcid_id: 0000-0001-7371-9612 # your ORCID ID
+github_username: HKyleZhang # your GitHub user name
+x_username: HKyleZhang # your X handle
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: hongkaizhang92@126.com # your email address
-scholar_userid: ZmQo-HQAAAAJ&hl=en # your Google Scholar ID
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: HKyleZhang # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
@@ -24,7 +26,6 @@ github_username: HKyleZhang # your GitHub user name
 # linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
@@ -42,7 +43,6 @@ github_username: HKyleZhang # your GitHub user name
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-x_username: HKyleZhang # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
