@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
 subtitle: Lund University # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
