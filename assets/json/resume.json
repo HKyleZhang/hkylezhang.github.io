@@ -1,13 +1,10 @@
 {
   "basics": {
-    "name": "Hongkai Zhang",
-    "label": "Evolutionary biologist",
-    "image": "",
-    "email": "hongkaizhang92@126.com",
-    "phone": "(+86) 123-4567",
-    "url": "https://hkylezhang.github.io",
-    "summary": "Working on genomics of",
-    "location": {
+    "Name": "Hongkai Zhang",
+    "Origin": "Guangzhou, China",
+    "E-mail": "hongkaizhang92@126.com",
+    "Personal page": "https://hkylezhang.github.io",
+    "Location": {
       "address": "xxxx St",
       "postalCode": "123456",
       "city": "Beijing",
