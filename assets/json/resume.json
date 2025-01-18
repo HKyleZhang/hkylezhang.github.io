@@ -1,10 +1,10 @@
 {
   "basics": {
-    "Name": "Hongkai Zhang",
-    "Origin": "Guangzhou, China",
-    "E-mail": "hongkaizhang92@126.com",
-    "Personal page": "https://hkylezhang.github.io",
-    "Location": {
+    "name": "Hongkai Zhang",
+    "origin": "Guangzhou, China",
+    "e-mail": "hongkaizhang92@126.com",
+    "website": "https://hkylezhang.github.io",
+    "location": {
       "address": "xxxx St",
       "postalCode": "123456",
       "city": "Beijing",
