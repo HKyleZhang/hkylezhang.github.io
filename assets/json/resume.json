@@ -2,8 +2,12 @@
   "basics": {
     "name": "Hongkai Zhang",
     "origin": "Guangzhou, China",
-    "e-mail": "hongkaizhang92@126.com",
-    "website": "https://hkylezhang.github.io",
+    "label": "",
+    "image": "",
+    "email": "hongkaizhang92@126.com",
+    "phone": "",
+    "url": "https://hkylezhang.github.io",
+    "summary": "",
     "location": {
       "address": "xxxx St",
       "postalCode": "123456",
