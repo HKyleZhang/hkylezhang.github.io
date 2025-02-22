@@ -23,14 +23,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+        },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-my-doctoral-defense",
+          title: 'My Doctoral Defense',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
             },},{
         id: 'social-email',
         title: 'email',
