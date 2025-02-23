@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Doctoral Defense
+title: Defending doctoral thesis at Department of Biology, Lund University
 date: 2023-02-24 12:00:00-0400
 inline: false
 related_posts: false
