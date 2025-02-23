@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-my-doctoral-defense",
-          title: 'My Doctoral Defense',
+        },{id: "news-defending-doctoral-thesis-at-department-of-biology-lund-university",
+          title: 'Defending doctoral thesis at Department of Biology, Lund University',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
