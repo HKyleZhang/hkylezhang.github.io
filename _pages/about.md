@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: Lund University # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD | Evolutionary biologist # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -11,7 +11,10 @@ profile:
   more_info: >
     <p>E-mail: hongkaizhang92@126.com</p>
     <p>ORCiD: 0000-0001-7371-9612</p>
-    <p>Your City, Province 12345</p>
+    <p>Institute of Zoology, CAS
+1 Beichen West Road
+Chaoyang District
+100101 Beijing, China </p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
