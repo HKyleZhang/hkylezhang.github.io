@@ -11,10 +11,10 @@ profile:
   more_info: >
     <p>E-mail: hongkaizhang92@126.com</p>
     <p>ORCiD: 0000-0001-7371-9612</p>
-    <p>Institute of Zoology, CAS
-1 Beichen West Road
-Chaoyang District
-100101 Beijing, China </p>
+    <p>Institute of Zoology, CAS </p>
+    <p>1 Beichen West Road </p>
+    <p>Chaoyang District </p>
+    <p>100101 Beijing, China </p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
